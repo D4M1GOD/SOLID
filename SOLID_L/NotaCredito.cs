@@ -1,4 +1,4 @@
-public class NotaCredito : Documento
+public class NotaCredito : DocContable
 {
         public NotaCredito(int numero, DateTime fecha) : base(numero, fecha)
         {

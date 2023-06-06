@@ -1,7 +1,7 @@
-public abstract class Documento
+public abstract class DocContable
 {
     protected string _sigla;
-    public Documento(int numero, DateTime fecha)
+    public DocContable(int numero, DateTime fecha)
     {
         Numero = numero;
         Fecha = fecha;

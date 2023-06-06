@@ -4,12 +4,9 @@ public class Impresora
     {
         Console.WriteLine(unRemito.Imprimir());
     }
-    public void ImprimirFactura(Factura unaFactura)
+    public void Imprimir(DocContable documento)
     {
-        Console.WriteLine(unaFactura.Imprimir());
+        Console.WriteLine(documento.Imprimir());
     }
-    public void ImprimirNotaCredito(NotaCredito unaNotaCredito)
-    {
-        Console.WriteLine(unaNotaCredito.Imprimir());
-    }
+
 }

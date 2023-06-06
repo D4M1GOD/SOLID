@@ -1,4 +1,4 @@
-public class Factura : Documento
+public class Factura : DocContable
 {
         public Factura(int numero, DateTime fecha) : base(numero, fecha)
         {
