@@ -7,4 +7,9 @@ public class Item
     }
     public int Cantidad { get; set; }
     public Producto Producto { get; set; }
+
+    public double Subtotal()
+    {
+        return Cantidad * Producto.Precio;
+    }
 }
