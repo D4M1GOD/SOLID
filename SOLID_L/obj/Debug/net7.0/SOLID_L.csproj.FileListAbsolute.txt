@@ -1,0 +1,15 @@
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\bin\Debug\net7.0\SOLID_L.exe
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\bin\Debug\net7.0\SOLID_L.deps.json
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\bin\Debug\net7.0\SOLID_L.runtimeconfig.json
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\bin\Debug\net7.0\SOLID_L.dll
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\bin\Debug\net7.0\SOLID_L.pdb
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\obj\Debug\net7.0\SOLID_L.csproj.AssemblyReference.cache
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\obj\Debug\net7.0\SOLID_L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\obj\Debug\net7.0\SOLID_L.AssemblyInfoInputs.cache
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\obj\Debug\net7.0\SOLID_L.AssemblyInfo.cs
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\obj\Debug\net7.0\SOLID_L.csproj.CoreCompileInputs.cache
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\obj\Debug\net7.0\SOLID_L.dll
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\obj\Debug\net7.0\refint\SOLID_L.dll
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\obj\Debug\net7.0\SOLID_L.pdb
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\obj\Debug\net7.0\SOLID_L.genruntimeconfig.cache
+C:\Users\D10S_\Desktop\GITHUB\SOLID\SOLID_L\obj\Debug\net7.0\ref\SOLID_L.dll
