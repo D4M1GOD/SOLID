@@ -16,7 +16,7 @@ public class DocContable
             case TipoDocContable.Factura:
                 return $"FC-{Numero}";
             case TipoDocContable.NotaCredito:
-                return $"FC-{Numero}";
+                return $"NC-{Numero}";
             default: 
                 return "N/D";
         }
