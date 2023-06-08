@@ -8,4 +8,8 @@ public class NotaCredito : DocContable
     {
         return Importe* 1.21 * -1; //EJEMPLO
     }
+    public override void Imprimir()
+    {
+        Console.WriteLine($"Imprimiendo nota de credito {Numero} por un importe de {Importe} ");
+    }
 }

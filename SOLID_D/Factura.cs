@@ -8,4 +8,8 @@ public class Factura : DocContable
     {
         return Importe* 1.21;
     }
+    public override void Imprimir()
+    {
+        Console.WriteLine($"Imprimiendo factura {Numero} del {Fecha} por un importe de {Importe} ");
+    }
 }
